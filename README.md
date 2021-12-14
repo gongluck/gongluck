@@ -4,11 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**binglingziyu/binglingziyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on C++, Golang etc...
 - 🌱 I’m currently learning Audio/Video Technology
 - 👯 I’m looking to collaborate on any
@@ -17,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gongluck93@gmail.com
 - 😄 Pronouns: gongluck
 - ⚡ Fun fact: Trying to make money because I'm poor
--->
